@@ -24,8 +24,6 @@ Automated data cleaning and processing pipeline for HR analytics data that handl
 
 ## Usage
 ```bash
-# Generate sample data (if needed)
-python scripts/create_sample_data.py
 
 # Run main processing
 python scripts/data_processor.py
